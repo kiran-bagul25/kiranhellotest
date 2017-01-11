@@ -9,7 +9,7 @@ public class pqr implements Int1, Int2{
 	@Override
 	public void hello() {
 		// TODO Auto-generated method stub
-		
+		private int i = 16;
 	}
 
 
