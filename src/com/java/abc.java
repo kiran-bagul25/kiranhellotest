@@ -18,12 +18,7 @@ public class abc {
 		myMap.put("2", "2");
 		myMap.put("3", "3");
 
-		Iterator<String> it1 = myMap.keySet().iterator();
-		while(it1.hasNext()){
-			String key = it1.next();
-			System.out.println("Map Value:"+myMap.get(key));
-			
-			}
+	
 		}
 		   
 }
