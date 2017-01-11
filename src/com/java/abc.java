@@ -22,9 +22,7 @@ public class abc {
 		while(it1.hasNext()){
 			String key = it1.next();
 			System.out.println("Map Value:"+myMap.get(key));
-			if(key.equals("2")){
-				//myMap.put("3","4");
-				myMap.put("4", "4");
+			
 			}
 		}
 		   
